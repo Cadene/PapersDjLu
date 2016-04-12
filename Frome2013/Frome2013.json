@@ -1,0 +1,11 @@
+{
+	"title": "DeViSE: A Deep Visual-Semantic Embedding Model",
+	"authors" : ["Frome, Andrea", "Corrado, Greg S.", "Shlens, Jon", "Bengio, Samy", "Dean, Jeff", "Ranzato, Marc'Aurelio", "Mikolov, Tomas"],
+	"year" : 2013,
+	"date_added" : "2016-03-24 16:30",
+	"in" : "NIPS",
+	"tags_content" : ["deep", "semantic"],
+	"tags_reading" : ["read"],
+	"tags_notes" : ["great!"],
+	"rating" : 4.3
+}
