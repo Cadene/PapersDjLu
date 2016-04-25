@@ -1,0 +1,21 @@
+{
+    "title": "We don't need no bounding-boxes: Training object class detectors using\n  only human verification",
+    "authors": [
+        "Dim P. Papadopoulos",
+        "Jasper R. R. Uijlings",
+        "Frank Keller",
+        "Vittorio Ferrari"
+    ],
+    "year": "2016",
+    "date_added": "2016-04-25 16:51",
+    "in": "arXiv",
+    "tags_reading": [
+        "new"
+    ],
+    "url": "http:\/\/arxiv.org\/pdf\/1602.08405v1",
+    "tags_content": [
+        "deep",
+        "cv",
+        "wsl"
+    ]
+}

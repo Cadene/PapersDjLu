@@ -1,0 +1,22 @@
+{
+    "title": "Weakly Supervised Localization using Deep Feature Maps",
+    "authors": [
+        "Archith J. Bency",
+        "Heesung Kwon",
+        "Hyungtae Lee",
+        "S. Karthikeyan",
+        "B. S. Manjunath"
+    ],
+    "year": "2016",
+    "date_added": "2016-04-25 16:52",
+    "in": "arXiv",
+    "tags_reading": [
+        "new"
+    ],
+    "url": "http:\/\/arxiv.org\/pdf\/1603.00489v2",
+    "tags_content": [
+        "deep",
+        "cv",
+        "wsl"
+    ]
+}

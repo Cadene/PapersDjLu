@@ -1,0 +1,22 @@
+{
+    "title": "Recurrent Spatial Transformer Networks",
+    "authors": [
+        "S\u00f8ren Kaae S\u00f8nderby",
+        "Casper Kaae S\u00f8nderby",
+        "Lars Maal\u00f8e",
+        "Ole Winther"
+    ],
+    "year": "2015",
+    "date_added": "2016-04-25 18:01",
+    "in": "arXiv",
+    "tags_reading": [
+        "new"
+    ],
+    "url": "http:\/\/arxiv.org\/pdf\/1509.05329v1",
+    "tags_content": [
+        "deep",
+        "cv",
+        "wsl",
+        "rnn"
+    ]
+}

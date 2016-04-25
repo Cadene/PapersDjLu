@@ -1,0 +1,21 @@
+{
+    "title": "Is object localization for free? - Weakly-supervised learning with convolutional neural networks",
+    "authors": [
+        "Oquab, Maxime",
+        "Bottou, Leon",
+        "Laptev, Ivan",
+        "Sivic, Josef"
+    ],
+    "year": "2015",
+    "date_added": "2016-04-25 18:04",
+    "in": "",
+    "tags_reading": [
+        "new"
+    ],
+    "url": "http:\/\/dx.doi.org\/10.1109\/CVPR.2015.7298668",
+    "tags_content": [
+        "deep",
+        "cv",
+        "wsl"
+    ]
+}
