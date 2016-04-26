@@ -17,5 +17,6 @@
         "cv",
         "rnn",
         "cap"
-    ]
+    ],
+    "secret": "autoplesgars"
 }

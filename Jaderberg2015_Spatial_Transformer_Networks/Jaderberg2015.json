@@ -1,0 +1,21 @@
+{
+    "title": "Spatial Transformer Networks",
+    "authors": [
+        "Max Jaderberg",
+        "Karen Simonyan",
+        "Andrew Zisserman",
+        "Koray Kavukcuoglu"
+    ],
+    "year": "2015",
+    "date_added": "2016-04-26 11:25",
+    "in": "arXiv",
+    "tags_reading": [
+        "new"
+    ],
+    "url": "https:\/\/drive.google.com\/file\/d\/0B8wq1_XJLCTeaTg4aXJsdzc2UUk\/view?usp=drivesdk",
+    "tags_content": [
+        "deep",
+        "cv",
+        "wsl"
+    ]
+}

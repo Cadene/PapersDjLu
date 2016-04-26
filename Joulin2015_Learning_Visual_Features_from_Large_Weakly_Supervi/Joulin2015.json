@@ -1,0 +1,21 @@
+{
+    "title": "Learning Visual Features from Large Weakly Supervised Data",
+    "authors": [
+        "Armand Joulin",
+        "Laurens van der Maaten",
+        "Allan Jabri",
+        "Nicolas Vasilache"
+    ],
+    "year": "2015",
+    "date_added": "2016-04-26 10:00",
+    "in": "arXiv",
+    "tags_reading": [
+        "new"
+    ],
+    "url": "http:\/\/arxiv.org\/pdf\/1511.02251v1",
+    "tags_content": [
+        "deep",
+        "cv",
+        "wsl"
+    ]
+}

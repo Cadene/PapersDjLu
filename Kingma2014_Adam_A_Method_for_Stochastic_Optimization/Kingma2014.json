@@ -1,0 +1,18 @@
+{
+    "title": "Adam: A Method for Stochastic Optimization",
+    "authors": [
+        "Diederik Kingma",
+        "Jimmy Ba"
+    ],
+    "year": "2014",
+    "date_added": "2016-04-26 10:08",
+    "in": "arXiv",
+    "tags_reading": [
+        "new"
+    ],
+    "url": "http:\/\/arxiv.org\/pdf\/1412.6980v8",
+    "tags_content": [
+        "deep",
+        "optim"
+    ]
+}
