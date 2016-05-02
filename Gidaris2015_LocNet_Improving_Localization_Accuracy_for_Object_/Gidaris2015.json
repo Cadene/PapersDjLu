@@ -1,0 +1,19 @@
+{
+    "title": "LocNet: Improving Localization Accuracy for Object Detection",
+    "authors": [
+        "Spyros Gidaris",
+        "Nikos Komodakis"
+    ],
+    "year": "2015",
+    "date_added": "2016-05-02 14:41",
+    "in": "arXiv",
+    "tags_reading": [
+        "new"
+    ],
+    "url": "http:\/\/arxiv.org\/pdf\/1511.07763v2",
+    "tags_content": [
+        "deep",
+        "cv",
+        "loc"
+    ]
+}

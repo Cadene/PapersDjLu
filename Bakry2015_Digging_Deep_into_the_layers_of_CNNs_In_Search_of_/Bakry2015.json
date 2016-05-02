@@ -1,0 +1,21 @@
+{
+    "title": "Digging Deep into the layers of CNNs: In Search of How CNNs Achieve View\n  Invariance",
+    "authors": [
+        "Amr Bakry",
+        "Mohamed Elhoseiny",
+        "Tarek El-Gaaly",
+        "Ahmed Elgammal"
+    ],
+    "year": "2015",
+    "date_added": "2016-05-02 14:42",
+    "in": "arXiv",
+    "tags_reading": [
+        "new"
+    ],
+    "url": "http:\/\/arxiv.org\/pdf\/1508.01983v3",
+    "tags_content": [
+        "deep",
+        "cv",
+        "visu"
+    ]
+}

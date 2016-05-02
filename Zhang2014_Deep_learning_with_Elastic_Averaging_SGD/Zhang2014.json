@@ -1,0 +1,19 @@
+{
+    "title": "Deep learning with Elastic Averaging SGD",
+    "authors": [
+        "Sixin Zhang",
+        "Anna Choromanska",
+        "Yann LeCun"
+    ],
+    "year": "2014",
+    "date_added": "2016-05-02 14:35",
+    "in": "arXiv",
+    "tags_reading": [
+        "new"
+    ],
+    "url": "http:\/\/arxiv.org\/pdf\/1412.6651v8",
+    "tags_content": [
+        "deep",
+        "optim"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "title": "A MultiPath Network for Object Detection",
+    "authors": [
+        "Sergey Zagoruyko",
+        "Adam Lerer",
+        "Tsung-Yi Lin",
+        "Pedro O. Pinheiro",
+        "Sam Gross",
+        "Soumith Chintala",
+        "Piotr Doll\u00e1r"
+    ],
+    "year": "2016",
+    "date_added": "2016-05-02 14:37",
+    "in": "arXiv",
+    "tags_reading": [
+        "new"
+    ],
+    "url": "http:\/\/arxiv.org\/pdf\/1604.02135v1",
+    "tags_content": [
+        "deep",
+        "cv",
+        "loc"
+    ]
+}
