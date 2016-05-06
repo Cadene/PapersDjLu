@@ -1,0 +1,20 @@
+{
+    "title": "Multi-column deep neural network for traffic sign classification",
+    "authors": [
+        "Cire\u015fan, Dan",
+        "Meier, Ueli",
+        "Masci, Jonathan",
+        "Schmidhuber, J\u00fcrgen"
+    ],
+    "year": "2012",
+    "date_added": "2016-05-02 15:06",
+    "in": "",
+    "tags_reading": [
+        "new"
+    ],
+    "url": "http:\/\/dx.doi.org\/10.1016\/j.neunet.2012.02.023",
+    "tags_content": [
+        "deep",
+        "cv"
+    ]
+}

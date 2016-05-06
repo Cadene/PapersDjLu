@@ -1,0 +1,18 @@
+{
+    "title": "Traffic sign recognition with multi-scale Convolutional Networks",
+    "authors": [
+        "Sermanet, Pierre",
+        "LeCun, Yann"
+    ],
+    "year": "2011",
+    "date_added": "2016-05-02 15:07",
+    "in": "IJCNN",
+    "tags_reading": [
+        "new"
+    ],
+    "url": "http:\/\/dx.doi.org\/10.1109\/IJCNN.2011.6033589",
+    "tags_content": [
+        "deep",
+        "cv"
+    ]
+}

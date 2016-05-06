@@ -5,7 +5,9 @@
         "wsl": "EF8B2C",
         "visu": "D94E1F"
     },
-    "tags_reading": [],
+    "tags_reading": [
+
+    ],
     "palette": [
         "0D3C55",
         "0F5B78",
@@ -29,5 +31,66 @@
         "00214F",
         "001738",
         "000F24"
-    ]
+    ],
+    "tags": {
+        "content": {
+            "deep": {
+                "pinned": false,
+                "color": "0D3C55",
+                "count": 30
+            },
+            "cv": {
+                "pinned": false,
+                "color": "0F5B78",
+                "count": 27
+            },
+            "visu": {
+                "pinned": false,
+                "color": 117899,
+                "count": 4
+            },
+            "loc": {
+                "pinned": false,
+                "color": "1395BA",
+                "count": 3
+            },
+            "optim": {
+                "pinned": false,
+                "color": "5CA793",
+                "count": 2
+            },
+            "wsl": {
+                "pinned": false,
+                "color": "A2B86C",
+                "count": 12
+            },
+            "rnn": {
+                "pinned": false,
+                "color": "EBC844",
+                "count": 3
+            },
+            "cap": {
+                "pinned": false,
+                "color": "ECAA38",
+                "count": 1
+            },
+            "arch": {
+                "pinned": false,
+                "color": "C02E1D",
+                "count": 2
+            }
+        },
+        "reading": {
+            "new": {
+                "pinned": false,
+                "color": "EF8B2C",
+                "count": 29
+            },
+            "": {
+                "pinned": false,
+                "color": "F16C20",
+                "count": 1
+            }
+        }
+    }
 }
