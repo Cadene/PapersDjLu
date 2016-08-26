@@ -1,0 +1,23 @@
+{
+    "title": "Learning to learn by gradient descent by gradient descent",
+    "authors": [
+        "Marcin Andrychowicz",
+        "Misha Denil",
+        "Sergio Gomez",
+        "Matthew W. Hoffman",
+        "David Pfau",
+        "Tom Schaul",
+        "Nando de Freitas"
+    ],
+    "year": "2016",
+    "date_added": "2016-06-15 18:13",
+    "in": "arXiv",
+    "tags_reading": [
+        "read"
+    ],
+    "url": "http:\/\/arxiv.org\/pdf\/1606.04474v1",
+    "tags_content": [
+        "deep",
+        "optim"
+    ]
+}

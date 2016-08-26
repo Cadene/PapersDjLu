@@ -37,59 +37,79 @@
             "deep": {
                 "pinned": false,
                 "color": "0D3C55",
-                "count": 30
+                "count": 48
             },
             "cv": {
                 "pinned": false,
                 "color": "0F5B78",
-                "count": 27
+                "count": 34
             },
-            "visu": {
+            "wsl": {
                 "pinned": false,
                 "color": 117899,
-                "count": 4
+                "count": 15
             },
-            "loc": {
+            "hist": {
                 "pinned": false,
                 "color": "1395BA",
-                "count": 3
+                "count": 9
             },
-            "optim": {
+            "arch": {
                 "pinned": false,
                 "color": "5CA793",
                 "count": 2
             },
-            "wsl": {
+            "visu": {
                 "pinned": false,
                 "color": "A2B86C",
-                "count": 12
+                "count": 4
             },
-            "rnn": {
+            "loc": {
                 "pinned": false,
                 "color": "EBC844",
                 "count": 3
             },
-            "cap": {
+            "optim": {
                 "pinned": false,
                 "color": "ECAA38",
+                "count": 5
+            },
+            "rnn": {
+                "pinned": false,
+                "color": "EF8B2C",
+                "count": 4
+            },
+            "cap": {
+                "pinned": false,
+                "color": "F16C20",
                 "count": 1
             },
-            "arch": {
+            "neuro": {
                 "pinned": false,
-                "color": "C02E1D",
+                "color": "B31B2A",
                 "count": 2
+            },
+            "AEs": {
+                "pinned": false,
+                "color": "AA1F4B",
+                "count": 1
             }
         },
         "reading": {
             "new": {
                 "pinned": false,
-                "color": "EF8B2C",
-                "count": 29
+                "color": "D94E1F",
+                "count": 61
             },
             "": {
                 "pinned": false,
-                "color": "F16C20",
+                "color": "C02E1D",
                 "count": 1
+            },
+            "read": {
+                "pinned": false,
+                "color": "8A214F",
+                "count": 7
             }
         }
     }

@@ -1,0 +1,18 @@
+{
+    "title": "OverFeat: Integrated Recognition, Localization and Detection using\n  Convolutional Networks",
+    "authors": [
+        "Pierre Sermanet",
+        "David Eigen",
+        "Xiang Zhang",
+        "Michael Mathieu",
+        "Rob Fergus",
+        "Yann LeCun"
+    ],
+    "year": "2013",
+    "date_added": "2016-05-17 22:53",
+    "in": "ICLR",
+    "tags_reading": [
+        "new"
+    ],
+    "url": "http:\/\/arxiv.org\/pdf\/1312.6229v4"
+}

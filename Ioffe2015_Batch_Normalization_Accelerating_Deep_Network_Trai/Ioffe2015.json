@@ -1,0 +1,14 @@
+{
+    "title": "Batch Normalization: Accelerating Deep Network Training by Reducing\n  Internal Covariate Shift",
+    "authors": [
+        "Sergey Ioffe",
+        "Christian Szegedy"
+    ],
+    "year": "2015",
+    "date_added": "2016-05-19 11:32",
+    "in": "ICML",
+    "tags_reading": [
+        "new"
+    ],
+    "url": "http:\/\/arxiv.org\/pdf\/1502.03167v3"
+}

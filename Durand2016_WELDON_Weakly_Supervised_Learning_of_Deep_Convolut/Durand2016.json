@@ -1,0 +1,20 @@
+{
+    "title": "WELDON: Weakly Supervised Learning of Deep Convolutional Neural\r\nNetworks",
+    "authors": [
+        "Durand, Thibaut",
+        "Thome, Nicolas",
+        "Cord, Matthieu"
+    ],
+    "year": "2016",
+    "date_added": "2016-05-10 18:10",
+    "in": "CVPR",
+    "tags_reading": [
+        "new"
+    ],
+    "url": "http:\/\/webia.lip6.fr\/~thomen\/papers\/Durand_CVPR_2016.pdf",
+    "tags_content": [
+        "deep",
+        "cv",
+        "wsl"
+    ]
+}
