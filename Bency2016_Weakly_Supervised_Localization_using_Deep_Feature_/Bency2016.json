@@ -11,12 +11,13 @@
     "date_added": "2016-04-25 16:52",
     "in": "arXiv",
     "tags_reading": [
-        "new"
+        "read"
     ],
     "url": "http:\/\/arxiv.org\/pdf\/1603.00489v2",
     "tags_content": [
         "deep",
         "cv",
-        "wsl"
+        "wsl",
+        "loc"
     ]
 }

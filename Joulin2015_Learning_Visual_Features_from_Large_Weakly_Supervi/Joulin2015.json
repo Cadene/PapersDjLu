@@ -10,12 +10,13 @@
     "date_added": "2016-04-26 10:00",
     "in": "arXiv",
     "tags_reading": [
-        "new"
+        "read"
     ],
     "url": "http:\/\/arxiv.org\/pdf\/1511.02251v1",
     "tags_content": [
         "deep",
         "cv",
         "wsl"
-    ]
+    ],
+    "rating": "5"
 }

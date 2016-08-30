@@ -8,13 +8,14 @@
     "date_added": "2016-04-25 17:39",
     "in": "arXiv",
     "tags_reading": [
-        "new"
+        "read"
     ],
     "url": "http:\/\/arxiv.org\/pdf\/1511.02853v3",
     "tags_content": [
         "deep",
         "cv",
-        "wsl"
+        "wsl",
+        "loc"
     ],
     "rating": "5"
 }

@@ -37,7 +37,7 @@
             "deep": {
                 "pinned": false,
                 "color": "0D3C55",
-                "count": 48
+                "count": 49
             },
             "cv": {
                 "pinned": false,
@@ -67,7 +67,7 @@
             "loc": {
                 "pinned": false,
                 "color": "EBC844",
-                "count": 3
+                "count": 6
             },
             "optim": {
                 "pinned": false,
@@ -93,23 +93,23 @@
                 "pinned": false,
                 "color": "AA1F4B",
                 "count": 1
+            },
+            "evo": {
+                "pinned": false,
+                "color": "4C214F",
+                "count": 1
             }
         },
         "reading": {
             "new": {
                 "pinned": false,
                 "color": "D94E1F",
-                "count": 61
-            },
-            "": {
-                "pinned": false,
-                "color": "C02E1D",
-                "count": 1
+                "count": 28
             },
             "read": {
                 "pinned": false,
-                "color": "8A214F",
-                "count": 7
+                "color": "000F24",
+                "count": 38
             }
         }
     }

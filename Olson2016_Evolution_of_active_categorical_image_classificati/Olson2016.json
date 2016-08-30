@@ -9,7 +9,14 @@
     "date_added": "2016-08-25 16:50",
     "in": "arXiv",
     "tags_reading": [
-        "new"
+        "read"
     ],
-    "url": "http:\/\/arxiv.org\/pdf\/1603.08233v2"
+    "url": "http:\/\/arxiv.org\/pdf\/1603.08233v2",
+    "tags_content": [
+        "evo"
+    ],
+    "tags_notes": [
+        "attention",
+        "genetic algo"
+    ]
 }
