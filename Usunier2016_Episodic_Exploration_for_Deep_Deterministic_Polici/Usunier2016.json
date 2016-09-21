@@ -1,0 +1,20 @@
+{
+    "title": "Episodic Exploration for Deep Deterministic Policies: An Application to\n  StarCraft Micromanagement Tasks",
+    "authors": [
+        "Nicolas Usunier",
+        "Gabriel Synnaeve",
+        "Zeming Lin",
+        "Soumith Chintala"
+    ],
+    "year": "2016",
+    "date_added": "2016-09-19 20:22",
+    "in": "arXiv",
+    "tags_reading": [
+        "new"
+    ],
+    "url": "http:\/\/arxiv.org\/pdf\/1609.02993v2",
+    "tags_content": [
+        "deep",
+        "starcraft"
+    ]
+}

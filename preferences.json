@@ -37,7 +37,7 @@
             "deep": {
                 "pinned": false,
                 "color": "0D3C55",
-                "count": 49
+                "count": 52
             },
             "cv": {
                 "pinned": false,
@@ -98,13 +98,18 @@
                 "pinned": false,
                 "color": "4C214F",
                 "count": 1
+            },
+            "starcraft": {
+                "pinned": false,
+                "color": "C02E1D",
+                "count": 1
             }
         },
         "reading": {
             "new": {
                 "pinned": false,
                 "color": "D94E1F",
-                "count": 28
+                "count": 30
             },
             "read": {
                 "pinned": false,
