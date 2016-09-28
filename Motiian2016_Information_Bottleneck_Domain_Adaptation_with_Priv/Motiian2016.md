@@ -1,0 +1,1 @@
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Motiian_Information_Bottleneck_Learning_CVPR_2016_paper.pdf

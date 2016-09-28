@@ -1,0 +1,36 @@
+@article { Jin2016,
+	abstract = {Intermediate features at different layers of a deep neural network are known
+to be discriminative for visual patterns of different complexities. However,
+most existing works ignore such cross-layer heterogeneities when classifying
+samples of different complexities. For example, if a training sample has
+already been correctly classified at a specific layer with high confidence, we
+argue that it is unnecessary to enforce rest layers to classify this sample
+correctly and a better strategy is to encourage those layers to focus on other
+samples.
+  In this paper, we propose a layer-wise discriminative learning method to
+enhance the discriminative capability of a deep network by allowing its layers
+to work collaboratively for classification. Towards this target, we introduce
+multiple classifiers on top of multiple layers. Each classifier not only tries
+to correctly classify the features from its input layer, but also coordinates
+with other classifiers to jointly maximize the final classification
+performance. Guided by the other companion classifiers, each classifier learns
+to concentrate on certain training examples and boosts the overall performance.
+Allowing for end-to-end training, our method can be conveniently embedded into
+state-of-the-art deep networks. Experiments with multiple popular deep
+networks, including Network in Network, GoogLeNet and VGGNet, on scale-various
+object classification benchmarks, including CIFAR100, MNIST and ImageNet, and
+scene classification benchmarks, including MIT67, SUN397 and Places205,
+demonstrate the effectiveness of our method. In addition, we also analyze the
+relationship between the proposed method and classical conditional random
+fields models.},
+	url = {http://arxiv.org/pdf/1607.05440v1},
+	eprint = {1607.05440v1},
+	arxivid = {1607.05440v1},
+	archiveprefix = {arXiv},
+	month = {Jul},
+	year = {2016},
+	booktitle = {arXiv},
+	title = {Collaborative Layer-wise Discriminative Learning in Deep Neural Networks},
+	author = {Xiaojie Jin and Yunpeng Chen and Jian Dong and Jiashi Feng and Shuicheng Yan}
+}
+

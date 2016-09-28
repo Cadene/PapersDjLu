@@ -37,7 +37,7 @@
             "deep": {
                 "pinned": false,
                 "color": "0D3C55",
-                "count": 52
+                "count": 60
             },
             "cv": {
                 "pinned": false,
@@ -103,18 +103,28 @@
                 "pinned": false,
                 "color": "C02E1D",
                 "count": 1
+            },
+            "textimage": {
+                "pinned": false,
+                "color": "8A214F",
+                "count": 9
+            },
+            "vqa": {
+                "pinned": false,
+                "color": "65214F",
+                "count": 5
             }
         },
         "reading": {
             "new": {
                 "pinned": false,
                 "color": "D94E1F",
-                "count": 30
+                "count": 46
             },
             "read": {
                 "pinned": false,
                 "color": "000F24",
-                "count": 38
+                "count": 40
             }
         }
     }

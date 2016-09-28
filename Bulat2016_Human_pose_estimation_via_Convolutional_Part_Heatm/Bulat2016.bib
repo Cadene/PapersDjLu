@@ -1,0 +1,29 @@
+@article { Bulat2016,
+	abstract = {This paper is on human pose estimation using Convolutional Neural Networks.
+Our main contribution is a CNN cascaded architecture specifically designed for
+learning part relationships and spatial context, and robustly inferring pose
+even for the case of severe part occlusions. To this end, we propose a
+detection-followed-by-regression CNN cascade. The first part of our cascade
+outputs part detection heatmaps and the second part performs regression on
+these heatmaps. The benefits of the proposed architecture are multi-fold: It
+guides the network where to focus in the image and effectively encodes part
+constraints and context. More importantly, it can effectively cope with
+occlusions because part detection heatmaps for occluded parts provide low
+confidence scores which subsequently guide the regression part of our network
+to rely on contextual information in order to predict the location of these
+parts. Additionally, we show that the proposed cascade is flexible enough to
+readily allow the integration of various CNN architectures for both detection
+and regression, including recent ones based on residual learning. Finally, we
+illustrate that our cascade achieves top performance on the MPII and LSP data
+sets. Code can be downloaded from http://www.cs.nott.ac.uk/~psxab5/},
+	url = {http://arxiv.org/pdf/1609.01743v1},
+	eprint = {1609.01743v1},
+	arxivid = {1609.01743v1},
+	archiveprefix = {arXiv},
+	month = {Sep},
+	year = {2016},
+	booktitle = {arXiv},
+	title = {Human pose estimation via Convolutional Part Heatmap Regression},
+	author = {Adrian Bulat and Georgios Tzimiropoulos}
+}
+

@@ -1,0 +1,17 @@
+{
+    "title": "Simple Baseline for Visual Question Answering",
+    "authors": [
+        "Bolei Zhou",
+        "Yuandong Tian",
+        "Sainbayar Sukhbaatar",
+        "Arthur Szlam",
+        "Rob Fergus"
+    ],
+    "year": "2015",
+    "date_added": "2016-09-28 15:06",
+    "in": "arXiv",
+    "tags_reading": [
+        "new"
+    ],
+    "url": "http:\/\/arxiv.org\/pdf\/1512.02167v2"
+}

@@ -1,0 +1,21 @@
+{
+    "title": "Visual Relationship Detection with Language Priors",
+    "authors": [
+        "Cewu Lu",
+        "Ranjay Krishna",
+        "Michael Bernstein",
+        "Li Fei-Fei"
+    ],
+    "year": "2016",
+    "date_added": "2016-09-25 17:54",
+    "in": "ECCV",
+    "tags_reading": [
+        "new"
+    ],
+    "url": "http:\/\/arxiv.org\/pdf\/1608.00187v1",
+    "tags_content": [
+        "deep",
+        "textimage"
+    ],
+    "secret": "E3unFQsGVTS121bl1WHehIrzWmcaJ2"
+}
