@@ -12,13 +12,12 @@
     ],
     "url": "http:\/\/arxiv.org\/pdf\/1511.05234v2",
     "tags_content": [
-        "deep",
-        "textimage",
-        "vqa"
+        "vqa",
+        "attention"
     ],
     "secret": "APwvIUo3nUPO598YH7QcQAPsD83shf",
     "tags_notes": [
-
+        "multi-hop"
     ],
     "rating": "4"
 }

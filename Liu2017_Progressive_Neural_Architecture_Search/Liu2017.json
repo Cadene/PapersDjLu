@@ -1,0 +1,31 @@
+{
+    "title": "Progressive Neural Architecture Search",
+    "authors": [
+        "Chenxi Liu",
+        "Barret Zoph",
+        "Maxim Neumann",
+        "Jonathon Shlens",
+        "Wei Hua",
+        "Li-Jia Li",
+        "Li Fei-Fei",
+        "Alan Yuille",
+        "Jonathan Huang",
+        "Kevin Murphy"
+    ],
+    "year": "2017",
+    "date_added": "2018-06-15 03:32",
+    "in": "arXiv",
+    "tags_reading": [
+        "read"
+    ],
+    "url": "https:\/\/drive.google.com\/file\/d\/1eHG90NTNx3wT8u_c-bmZ_xjNy8lEiT8t\/view?usp=sharing",
+    "tags_content": [
+        "nas",
+        "rl"
+    ],
+    "rating": "5",
+    "secret": "p64wgdNFKOov1iE3mkxuuFyztS1DK5",
+    "tags_notes": [
+        "PNASNet"
+    ]
+}

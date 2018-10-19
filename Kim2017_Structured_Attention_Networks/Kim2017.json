@@ -1,0 +1,19 @@
+{
+    "title": "Structured Attention Networks",
+    "authors": [
+        "Yoon Kim",
+        "Carl Denton",
+        "Luong Hoang",
+        "Alexander M. Rush"
+    ],
+    "year": "2017",
+    "date_added": "2017-06-19 15:04",
+    "in": "arXiv",
+    "tags_reading": [
+        "new"
+    ],
+    "url": "http:\/\/arxiv.org\/pdf\/1702.00887v3",
+    "tags_content": [
+        "attention"
+    ]
+}

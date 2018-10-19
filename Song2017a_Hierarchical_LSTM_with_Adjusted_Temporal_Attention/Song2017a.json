@@ -1,0 +1,18 @@
+{
+    "title": "Hierarchical LSTM with Adjusted Temporal Attention for Video Captioning",
+    "authors": [
+        "Jingkuan Song",
+        "Zhao Guo",
+        "Lianli Gao",
+        "Wu Liu",
+        "Dongxiang Zhang",
+        "Heng Tao Shen"
+    ],
+    "year": "2017",
+    "date_added": "2018-06-11 23:36",
+    "in": "arXiv",
+    "tags_reading": [
+        "new"
+    ],
+    "url": "http:\/\/arxiv.org\/pdf\/1706.01231v1"
+}

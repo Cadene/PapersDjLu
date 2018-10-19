@@ -1,0 +1,24 @@
+{
+    "title": "CondenseNet: An Efficient DenseNet using Learned Group Convolutions",
+    "authors": [
+        "Gao Huang",
+        "Shichen Liu",
+        "Laurens van der Maaten",
+        "Kilian Q. Weinberger"
+    ],
+    "year": "2017",
+    "date_added": "2018-06-25 18:29",
+    "in": "arXiv",
+    "tags_reading": [
+        "read"
+    ],
+    "url": "http:\/\/arxiv.org\/pdf\/1711.09224v2",
+    "tags_notes": [
+
+    ],
+    "tags_content": [
+        "deep"
+    ],
+    "rating": "4.5",
+    "secret": "H5pH2W8z6Rd4tRclZMcrZrnTu0OTCe"
+}

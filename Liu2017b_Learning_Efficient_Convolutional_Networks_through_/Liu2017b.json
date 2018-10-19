@@ -1,0 +1,21 @@
+{
+    "title": "Learning Efficient Convolutional Networks through Network Slimming",
+    "authors": [
+        "Zhuang Liu",
+        "Jianguo Li",
+        "Zhiqiang Shen",
+        "Gao Huang",
+        "Shoumeng Yan",
+        "Changshui Zhang"
+    ],
+    "year": "2017",
+    "date_added": "2018-08-24 20:22",
+    "in": "arXiv",
+    "tags_reading": [
+        "new"
+    ],
+    "url": "http:\/\/arxiv.org\/pdf\/1708.06519v1",
+    "tags_content": [
+        "pruning"
+    ]
+}

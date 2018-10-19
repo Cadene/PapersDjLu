@@ -1,0 +1,24 @@
+{
+    "title": "Human Attention in Visual Question Answering: Do Humans and Deep\n  Networks Look at the Same Regions?",
+    "authors": [
+        "Abhishek Das",
+        "Harsh Agrawal",
+        "C. Lawrence Zitnick",
+        "Devi Parikh",
+        "Dhruv Batra"
+    ],
+    "year": "2016",
+    "date_added": "2016-11-07 16:57",
+    "in": "EMNLP",
+    "tags_reading": [
+        "new"
+    ],
+    "url": "https:\/\/drive.google.com\/file\/d\/0B4CLWJcbp4qgTUhHR3FObzQzN2s\/view?usp=drivesdk",
+    "tags_content": [
+        "vqa",
+        "attention"
+    ],
+    "tags_notes": [
+        "ICML"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "title": "Bottom-Up and Top-Down Attention for Image Captioning and Visual\n  Question Answering",
+    "authors": [
+        "Peter Anderson",
+        "Xiaodong He",
+        "Chris Buehler",
+        "Damien Teney",
+        "Mark Johnson",
+        "Stephen Gould",
+        "Lei Zhang"
+    ],
+    "year": 2018,
+    "date_added": "2018-02-09 15:13",
+    "in": "CVPR",
+    "tags_reading": [
+        "new"
+    ],
+    "url": "https:\/\/drive.google.com\/file\/d\/1FAGmRdifn-IkVoRlL1SaEGrnhyOrullB\/view?usp=drivesdk",
+    "tags_content": [
+        "multimodal",
+        "vqa"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "title": "VQA: Visual Question Answering",
+    "authors": [
+        "Aishwarya Agrawal",
+        "Jiasen Lu",
+        "Stanislaw Antol",
+        "Margaret Mitchell",
+        "C. Lawrence Zitnick",
+        "Dhruv Batra",
+        "Devi Parikh"
+    ],
+    "year": "2015",
+    "date_added": "2016-09-29 18:45",
+    "in": "ICCV",
+    "tags_reading": [
+
+    ],
+    "url": "https:\/\/drive.google.com\/file\/d\/0B4CLWJcbp4qgNUJrYjRUYlVsVzA\/view?usp=drivesdk",
+    "tags_content": [
+        "vqa",
+        "dataset"
+    ],
+    "tags_notes": [
+        "VQA"
+    ]
+}

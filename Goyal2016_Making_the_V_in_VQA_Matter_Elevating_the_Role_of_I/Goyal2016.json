@@ -1,0 +1,24 @@
+{
+    "title": "Making the V in VQA Matter: Elevating the Role of Image Understanding in\n  Visual Question Answering",
+    "authors": [
+        "Yash Goyal",
+        "Tejas Khot",
+        "Douglas Summers-Stay",
+        "Dhruv Batra",
+        "Devi Parikh"
+    ],
+    "year": 2017,
+    "date_added": "2018-05-11 10:12",
+    "in": "CVPR",
+    "tags_reading": [
+
+    ],
+    "url": "http:\/\/arxiv.org\/pdf\/1612.00837v3",
+    "tags_content": [
+        "multimodal",
+        "vqa"
+    ],
+    "tags_notes": [
+        "VQA2"
+    ]
+}

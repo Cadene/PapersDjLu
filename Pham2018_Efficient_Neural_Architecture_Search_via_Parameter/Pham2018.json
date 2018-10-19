@@ -1,0 +1,24 @@
+{
+    "title": "Efficient Neural Architecture Search via Parameter Sharing",
+    "authors": [
+        "Hieu Pham",
+        "Melody Y. Guan",
+        "Barret Zoph",
+        "Quoc V. Le",
+        "Jeff Dean"
+    ],
+    "year": "2018",
+    "date_added": "2018-06-15 03:32",
+    "in": "arXiv",
+    "tags_reading": [
+        "reading"
+    ],
+    "url": "https:\/\/drive.google.com\/file\/d\/1-oGTZhkj2ptzBfHwnpcMNCNzAR6ojxDx\/view?usp=drivesdk",
+    "tags_content": [
+        "nas"
+    ],
+    "secret": "ce6k00H7osiJFfYfKO5WACaV2T946A",
+    "tags_notes": [
+        "ENAS"
+    ]
+}

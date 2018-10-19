@@ -1,0 +1,21 @@
+{
+    "title": "A Multi-World Approach to Question Answering about Real-World Scenes\n  based on Uncertain Input",
+    "authors": [
+        "Mateusz Malinowski",
+        "Mario Fritz"
+    ],
+    "year": "2014",
+    "date_added": "2016-09-29 18:47",
+    "in": "NIPS",
+    "tags_reading": [
+
+    ],
+    "url": "http:\/\/arxiv.org\/pdf\/1410.0210v4",
+    "tags_content": [
+        "vqa",
+        "dataset"
+    ],
+    "tags_notes": [
+        "DAQUAR"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "title": "DARTS: Differentiable Architecture Search",
+    "authors": [
+        "Hanxiao Liu",
+        "Karen Simonyan",
+        "Yiming Yang"
+    ],
+    "year": "2018",
+    "date_added": "2018-06-26 19:05",
+    "in": "arXiv",
+    "tags_reading": [
+        "read"
+    ],
+    "url": "http:\/\/arxiv.org\/pdf\/1806.09055v1",
+    "tags_content": [
+        "nas"
+    ],
+    "rating": "4.5",
+    "secret": "UQ8G6rCtkik3jxf37p8SCbolxbP5eN"
+}

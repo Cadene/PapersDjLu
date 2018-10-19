@@ -1,0 +1,28 @@
+@article { Luo2018,
+	abstract = {We address a learning-to-normalize problem by proposing Switchable
+Normalization (SN), which learns to select different operations for different
+normalization layers of a deep neural network (DNN). SN switches among three
+distinct scopes to compute statistics (means and variances) including a
+channel, a layer, and a minibatch, by learning their importance weights in an
+end-to-end manner. SN has several good properties. First, it adapts to various
+network architectures and tasks (see Fig.1). Second, it is robust to a wide
+range of batch sizes, maintaining high performance when small minibatch is
+presented (e.g. 2 images/GPU). Third, SN treats all channels as a group, unlike
+group normalization that searches the number of groups as a hyper-parameter.
+Without bells and whistles, SN outperforms its counterparts on various
+challenging problems, such as image classification in ImageNet, object
+detection and segmentation in COCO, artistic image stylization, and neural
+architecture search. We hope SN will help ease the usages and understand the
+effects of normalization techniques in deep learning. The code of SN will be
+made available in https://github.com/switchablenorms/.},
+	url = {http://arxiv.org/pdf/1806.10779v3},
+	eprint = {1806.10779},
+	arxivid = {1806.10779},
+	archiveprefix = {arXiv},
+	month = {Jun},
+	year = {2018},
+	booktitle = {arXiv},
+	title = {{Differentiable Learning-to-Normalize via Switchable Normalization}},
+	author = {Ping Luo and Jiamin Ren and Zhanglin Peng}
+}
+

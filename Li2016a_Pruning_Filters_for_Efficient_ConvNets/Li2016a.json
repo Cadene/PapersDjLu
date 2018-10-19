@@ -1,0 +1,20 @@
+{
+    "title": "Pruning Filters for Efficient ConvNets",
+    "authors": [
+        "Hao Li",
+        "Asim Kadav",
+        "Igor Durdanovic",
+        "Hanan Samet",
+        "Hans Peter Graf"
+    ],
+    "year": 2017,
+    "date_added": "2018-07-25 02:52",
+    "in": "ICLR",
+    "tags_reading": [
+        "new"
+    ],
+    "url": "http:\/\/arxiv.org\/pdf\/1608.08710v3",
+    "tags_content": [
+        "pruning"
+    ]
+}

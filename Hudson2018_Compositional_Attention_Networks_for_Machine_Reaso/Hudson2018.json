@@ -1,0 +1,22 @@
+{
+    "title": "Compositional Attention Networks for Machine Reasoning",
+    "authors": [
+        "Drew A. Hudson",
+        "Christopher D. Manning"
+    ],
+    "year": "2018",
+    "date_added": "2018-03-24 19:07",
+    "in": "ICLR",
+    "tags_reading": [
+        "new"
+    ],
+    "url": "https:\/\/drive.google.com\/file\/d\/1h_LB4XMvPD8uJFCh9kss4Gc-zbDZ9KX8\/view?usp=drivesdk",
+    "tags_content": [
+        "multimodal",
+        "vqa"
+    ],
+    "tags_notes": [
+        "CLEVR",
+        "MAC"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "title": "A Structured Self-attentive Sentence Embedding",
+    "authors": [
+        "Zhouhan Lin",
+        "Minwei Feng",
+        "Cicero Nogueira dos Santos",
+        "Mo Yu",
+        "Bing Xiang",
+        "Bowen Zhou",
+        "Yoshua Bengio"
+    ],
+    "year": "2017",
+    "date_added": "2017-06-20 11:34",
+    "in": "arXiv",
+    "tags_reading": [
+        "new"
+    ],
+    "url": "http:\/\/arxiv.org\/pdf\/1703.03130v1",
+    "tags_content": [
+        "attention"
+    ]
+}

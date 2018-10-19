@@ -1,0 +1,22 @@
+{
+    "title": "SSD: Single Shot MultiBox Detector",
+    "authors": [
+        "Liu, Wei",
+        "Anguelov, Dragomir",
+        "Erhan, Dumitru",
+        "Szegedy, Christian",
+        "Reed, Scott",
+        "Fu, Cheng-Yang",
+        "Berg, Alexander C."
+    ],
+    "year": "2016",
+    "date_added": "2018-01-03 11:32",
+    "in": "ECCV",
+    "tags_reading": [
+        "new"
+    ],
+    "url": "https:\/\/drive.google.com\/file\/d\/1tMSJ79mqflmFM0RxExbZcgN6SCr9miHG\/view?usp=drivesdk",
+    "tags_content": [
+        "loc"
+    ]
+}

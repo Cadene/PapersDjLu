@@ -37,12 +37,12 @@
             "deep": {
                 "pinned": false,
                 "color": "0D3C55",
-                "count": 60
+                "count": 79
             },
             "cv": {
                 "pinned": false,
                 "color": "0F5B78",
-                "count": 34
+                "count": 36
             },
             "wsl": {
                 "pinned": false,
@@ -62,12 +62,12 @@
             "visu": {
                 "pinned": false,
                 "color": "A2B86C",
-                "count": 4
+                "count": 7
             },
             "loc": {
                 "pinned": false,
                 "color": "EBC844",
-                "count": 6
+                "count": 7
             },
             "optim": {
                 "pinned": false,
@@ -77,12 +77,12 @@
             "rnn": {
                 "pinned": false,
                 "color": "EF8B2C",
-                "count": 4
+                "count": 5
             },
             "cap": {
                 "pinned": false,
                 "color": "F16C20",
-                "count": 1
+                "count": 3
             },
             "neuro": {
                 "pinned": false,
@@ -97,7 +97,7 @@
             "evo": {
                 "pinned": false,
                 "color": "4C214F",
-                "count": 1
+                "count": 8
             },
             "starcraft": {
                 "pinned": false,
@@ -107,25 +107,136 @@
             "textimage": {
                 "pinned": false,
                 "color": "8A214F",
-                "count": 9
+                "count": 8
             },
             "vqa": {
                 "pinned": false,
                 "color": "65214F",
-                "count": 5
+                "count": 37
+            },
+            "dataset": {
+                "pinned": false,
+                "color": "32214F",
+                "count": 6
+            },
+            "bio": {
+                "pinned": false,
+                "color": "1F214F",
+                "count": 1
+            },
+            "forget": {
+                "pinned": false,
+                "color": "00214F",
+                "count": 2
+            },
+            "rl": {
+                "pinned": false,
+                "color": "001738",
+                "count": 9
+            },
+            "finetuning": {
+                "pinned": false,
+                "color": "0D3C55",
+                "count": 2
+            },
+            "maths": {
+                "pinned": false,
+                "color": "0F5B78",
+                "count": 2
+            },
+            "attention": {
+                "pinned": false,
+                "color": 117899,
+                "count": 9
+            },
+            "multimodal": {
+                "pinned": false,
+                "color": "1395BA",
+                "count": 15
+            },
+            "video": {
+                "pinned": false,
+                "color": "5CA793",
+                "count": 1
+            },
+            "text": {
+                "pinned": false,
+                "color": "A2B86C",
+                "count": 1
+            },
+            "sketch": {
+                "pinned": false,
+                "color": "EBC844",
+                "count": 1
+            },
+            "retrieval": {
+                "pinned": false,
+                "color": "ECAA38",
+                "count": 3
+            },
+            "image": {
+                "pinned": false,
+                "color": "EF8B2C",
+                "count": 1
+            },
+            "selfattention": {
+                "pinned": false,
+                "color": "F16C20",
+                "count": 1
+            },
+            "relation": {
+                "pinned": false,
+                "color": "D94E1F",
+                "count": 1
+            },
+            "grounding": {
+                "pinned": false,
+                "color": "C02E1D",
+                "count": 1
+            },
+            "nas": {
+                "pinned": false,
+                "color": "B31B2A",
+                "count": 18
+            },
+            "hs": {
+                "pinned": false,
+                "color": "AA1F4B",
+                "count": 1
+            },
+            "pruning": {
+                "pinned": false,
+                "color": "65214F",
+                "count": 6
+            },
+            "multitask": {
+                "pinned": false,
+                "color": "4C214F",
+                "count": 1
+            },
+            "mobile": {
+                "pinned": false,
+                "color": "32214F",
+                "count": 2
             }
         },
         "reading": {
             "new": {
                 "pinned": false,
                 "color": "D94E1F",
-                "count": 46
+                "count": 138
             },
             "read": {
                 "pinned": false,
                 "color": "000F24",
-                "count": 40
+                "count": 53
+            },
+            "reading": {
+                "pinned": false,
+                "color": "8A214F",
+                "count": 4
             }
         }
-    }
+    },
+    "googleDriveRoot": "Research\/Djlu"
 }

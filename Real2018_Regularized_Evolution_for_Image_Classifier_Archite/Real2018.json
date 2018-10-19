@@ -1,0 +1,25 @@
+{
+    "title": "Regularized Evolution for Image Classifier Architecture Search",
+    "authors": [
+        "Esteban Real",
+        "Alok Aggarwal",
+        "Yanping Huang",
+        "Quoc V Le"
+    ],
+    "year": "2018",
+    "date_added": "2018-06-15 20:16",
+    "in": "ICCV",
+    "tags_reading": [
+        "reading"
+    ],
+    "url": "https:\/\/drive.google.com\/file\/d\/1y0RxC3VdCY53thKoIwcJ96A4f-4rmMLA\/view?usp=drivesdk",
+    "tags_content": [
+        "nas",
+        "evo"
+    ],
+    "rating": "5",
+    "secret": "3JmaOWVixuauxjBs1o4oc4XG6wOM6w",
+    "tags_notes": [
+        "AmoebaNet"
+    ]
+}

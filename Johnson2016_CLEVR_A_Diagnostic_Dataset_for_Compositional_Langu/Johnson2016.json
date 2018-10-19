@@ -1,0 +1,25 @@
+{
+    "title": "CLEVR: A Diagnostic Dataset for Compositional Language and Elementary\n  Visual Reasoning",
+    "authors": [
+        "Justin Johnson",
+        "Bharath Hariharan",
+        "Laurens van der Maaten",
+        "Li Fei-Fei",
+        "C. Lawrence Zitnick",
+        "Ross Girshick"
+    ],
+    "year": "2016",
+    "date_added": "2018-04-01 18:50",
+    "in": "arXiv",
+    "tags_reading": [
+        "new"
+    ],
+    "url": "http:\/\/arxiv.org\/pdf\/1612.06890v1",
+    "tags_content": [
+        "multimodal",
+        "vqa"
+    ],
+    "tags_notes": [
+        "CLEVR"
+    ]
+}

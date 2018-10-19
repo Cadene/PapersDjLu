@@ -1,0 +1,1 @@
+...propose a compositional scheme that consists of alanguage parser and a number of neural modules networks. The language parser predicts which neuralmodule network should be instantiated to answer the question

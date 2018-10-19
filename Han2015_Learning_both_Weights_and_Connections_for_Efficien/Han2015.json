@@ -1,0 +1,20 @@
+{
+    "title": "Learning both Weights and Connections for Efficient Neural Networks",
+    "authors": [
+        "Song Han",
+        "Jeff Pool",
+        "John Tran",
+        "William J. Dally"
+    ],
+    "year": "2015",
+    "date_added": "2018-07-26 22:53",
+    "in": "NIPS",
+    "tags_reading": [
+        "new"
+    ],
+    "url": "http:\/\/arxiv.org\/pdf\/1506.02626v3",
+    "tags_content": [
+        "pruning"
+    ],
+    "secret": "pdIv4YdvQjK4Dbf5VUAa7UwFN4OUA5"
+}

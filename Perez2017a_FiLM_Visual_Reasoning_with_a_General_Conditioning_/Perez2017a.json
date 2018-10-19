@@ -1,0 +1,24 @@
+{
+    "title": "FiLM: Visual Reasoning with a General Conditioning Layer",
+    "authors": [
+        "Ethan Perez",
+        "Florian Strub",
+        "Harm de Vries",
+        "Vincent Dumoulin",
+        "Aaron Courville"
+    ],
+    "year": "2017",
+    "date_added": "2018-03-28 23:22",
+    "in": "arXiv",
+    "tags_reading": [
+        "new"
+    ],
+    "url": "https:\/\/drive.google.com\/file\/d\/1RsUehAAwo0zO89dAWZcrmw_Q_ZOOdcY8\/view?usp=drivesdk",
+    "tags_content": [
+        "multimodal",
+        "vqa"
+    ],
+    "tags_notes": [
+        "CLEVR"
+    ]
+}

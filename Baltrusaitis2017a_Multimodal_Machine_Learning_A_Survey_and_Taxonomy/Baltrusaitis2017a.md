@@ -1,0 +1,3 @@
+https://20b94a0f-a-62cb3a1a-s-sites.googlegroups.com/site/multiml2016cvpr/MMML-Tutorial-Part1.pdf?attachauth=ANoY7cplJ3vh9C3KQd-c-v3t1YaU9wEMGva9AbApiuOkckmiG_f_phk2c3gOwBfWxJ_5bi2gGJXL0zHQQwgGPLfOX9chyczSvW6NbPbInWhPbGqaBUhBYuj0zERlUgNk1VJd6BazmlHR-oeAlm36wRlZUzl1E6q-sTbDsshqBb-pwjEQV4DKeQnJ-Ov-hzOrD2d9Xd4iZbwh48qhhXBfBiTbR1KzAjXEebiZ1dHSDZp0dindy8fyDL4%3D&attredirects=0
+
+https://sites.google.com/site/multiml2016cvpr/

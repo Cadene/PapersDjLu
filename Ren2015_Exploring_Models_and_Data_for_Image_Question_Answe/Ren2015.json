@@ -1,0 +1,22 @@
+{
+    "title": "Exploring Models and Data for Image Question Answering",
+    "authors": [
+        "Mengye Ren",
+        "Ryan Kiros",
+        "Richard Zemel"
+    ],
+    "year": "2015",
+    "date_added": "2016-11-07 16:39",
+    "in": "NIPS",
+    "tags_reading": [
+        "new"
+    ],
+    "url": "https:\/\/drive.google.com\/file\/d\/0B4CLWJcbp4qgSDd2YWxmdVdnVWM\/view?usp=drivesdk",
+    "tags_content": [
+        "vqa",
+        "dataset"
+    ],
+    "tags_notes": [
+        "COCO-QA"
+    ]
+}

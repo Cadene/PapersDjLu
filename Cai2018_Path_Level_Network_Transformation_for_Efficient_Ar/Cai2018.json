@@ -1,0 +1,22 @@
+{
+    "title": "Path-Level Network Transformation for Efficient Architecture Search",
+    "authors": [
+        "Han Cai",
+        "Jiacheng Yang",
+        "Weinan Zhang",
+        "Song Han",
+        "Yong Yu"
+    ],
+    "year": "2018",
+    "date_added": "2018-06-19 23:55",
+    "in": "ICML",
+    "tags_reading": [
+        "new"
+    ],
+    "url": "http:\/\/arxiv.org\/pdf\/1806.02639v1",
+    "tags_content": [
+        "nas",
+        "rl"
+    ],
+    "secret": "5Ue7ZxRe4g6TTm2KmTHEJRBJLQChF2"
+}

@@ -1,0 +1,25 @@
+{
+    "title": "Finding beans in burgers: Deep semantic-visual embedding with localization",
+    "authors": [
+        "Martin Engilberge",
+        "Louis Chevallier",
+        "Patrick Perez",
+        "Matthieu Cord"
+    ],
+    "year": 2018,
+    "date_added": "2018-03-29 17:12",
+    "in": "CVPR",
+    "tags_reading": [
+        "new"
+    ],
+    "url": "https:\/\/drive.google.com\/file\/d\/1-kuA3udpejMH8SQQJldDQ-H9M4gsIjY0\/view?usp=sharing",
+    "tags_content": [
+        "multimodal",
+        "retrieval",
+        "grounding"
+    ],
+    "tags_notes": [
+        "COCO"
+    ],
+    "secret": "ZnPgugxKK2j0TxgU1GCaLOp0D1pGXA"
+}

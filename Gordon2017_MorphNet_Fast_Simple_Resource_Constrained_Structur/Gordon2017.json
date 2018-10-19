@@ -1,0 +1,25 @@
+{
+    "title": "MorphNet: Fast & Simple Resource-Constrained Structure Learning of Deep\n  Networks",
+    "authors": [
+        "Ariel Gordon",
+        "Elad Eban",
+        "Ofir Nachum",
+        "Bo Chen",
+        "Hao Wu",
+        "Tien-Ju Yang",
+        "Edward Choi"
+    ],
+    "year": 2018,
+    "date_added": "2018-08-13 20:34",
+    "in": "CVPR",
+    "tags_reading": [
+        "new"
+    ],
+    "url": "https:\/\/drive.google.com\/file\/d\/1ztLuCyQOwi73fRkZYXMDo2Z4iSEib6nm\/view?usp=drivesdk",
+    "tags_content": [
+        "nas",
+        "rl",
+        "mobile",
+        "pruning"
+    ]
+}

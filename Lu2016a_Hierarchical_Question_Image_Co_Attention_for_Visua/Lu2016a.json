@@ -1,0 +1,21 @@
+{
+    "title": "Hierarchical Question-Image Co-Attention for Visual Question Answering",
+    "authors": [
+        "Jiasen Lu",
+        "Jianwei Yang",
+        "Dhruv Batra",
+        "Devi Parikh"
+    ],
+    "year": "2016",
+    "date_added": "2016-11-07 16:25",
+    "in": "NIPS",
+    "tags_reading": [
+        "new"
+    ],
+    "url": "https:\/\/drive.google.com\/file\/d\/0B4CLWJcbp4qgWmJYUGh3S0Zzelk\/view?usp=drivesdk",
+    "tags_content": [
+        "vqa",
+        "attention"
+    ],
+    "rating": "4"
+}

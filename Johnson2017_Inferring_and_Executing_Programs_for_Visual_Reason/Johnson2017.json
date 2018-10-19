@@ -1,0 +1,26 @@
+{
+    "title": "Inferring and Executing Programs for Visual Reasoning",
+    "authors": [
+        "Justin Johnson",
+        "Bharath Hariharan",
+        "Laurens van der Maaten",
+        "Judy Hoffman",
+        "Li Fei-Fei",
+        "C. Lawrence Zitnick",
+        "Ross Girshick"
+    ],
+    "year": "2017",
+    "date_added": "2018-04-01 18:52",
+    "in": "arXiv",
+    "tags_reading": [
+        "new"
+    ],
+    "url": "http:\/\/arxiv.org\/pdf\/1705.03633v1",
+    "tags_content": [
+        "multimodal",
+        "vqa"
+    ],
+    "tags_notes": [
+        "CLEVR"
+    ]
+}

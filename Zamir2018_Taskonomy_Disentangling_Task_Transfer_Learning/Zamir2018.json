@@ -1,0 +1,21 @@
+{
+    "title": "Taskonomy: Disentangling Task Transfer Learning",
+    "authors": [
+        "Amir Zamir",
+        "Alexander Sax",
+        "William Shen",
+        "Leonidas Guibas",
+        "Jitendra Malik",
+        "Silvio Savarese"
+    ],
+    "year": "2018",
+    "date_added": "2018-08-06 20:44",
+    "in": "arXiv",
+    "tags_reading": [
+        "new"
+    ],
+    "url": "http:\/\/arxiv.org\/pdf\/1804.08328v1",
+    "tags_content": [
+        "multitask"
+    ]
+}

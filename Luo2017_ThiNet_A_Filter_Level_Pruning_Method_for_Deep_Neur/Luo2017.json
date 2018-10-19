@@ -1,0 +1,18 @@
+{
+    "title": "ThiNet: A Filter Level Pruning Method for Deep Neural Network\n  Compression",
+    "authors": [
+        "Jian-Hao Luo",
+        "Jianxin Wu",
+        "Weiyao Lin"
+    ],
+    "year": "2017",
+    "date_added": "2018-07-25 02:51",
+    "in": "ICCV",
+    "tags_reading": [
+
+    ],
+    "url": "http:\/\/arxiv.org\/pdf\/1707.06342v1",
+    "tags_content": [
+        "pruning"
+    ]
+}

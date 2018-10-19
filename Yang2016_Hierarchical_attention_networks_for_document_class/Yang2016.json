@@ -1,0 +1,22 @@
+{
+    "title": "Hierarchical attention networks for document classification",
+    "authors": [
+        "Yang, Zichao",
+        "Yang, Diyi",
+        "Dyer, Chris",
+        "He, Xiaodong",
+        "Smola, Alex",
+        "Hovy, Eduard"
+    ],
+    "year": "2016",
+    "date_added": "2017-06-22 18:19",
+    "in": "Proceedings of NAACL-HLT",
+    "tags_reading": [
+        "new"
+    ],
+    "url": "https:\/\/www.cs.cmu.edu\/~diyiy\/docs\/naacl16.pdf",
+    "tags_content": [
+        "attention"
+    ],
+    "secret": "uvcMYJ8sD76VLhQmKx2TcXL5ylrtzo"
+}

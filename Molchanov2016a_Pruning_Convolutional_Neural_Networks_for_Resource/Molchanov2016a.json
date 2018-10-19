@@ -1,0 +1,21 @@
+{
+    "title": "Pruning Convolutional Neural Networks for Resource Efficient Inference",
+    "authors": [
+        "Pavlo Molchanov",
+        "Stephen Tyree",
+        "Tero Karras",
+        "Timo Aila",
+        "Jan Kautz"
+    ],
+    "year": 2017,
+    "date_added": "2018-07-25 03:00",
+    "in": "ICLR",
+    "tags_reading": [
+
+    ],
+    "url": "https:\/\/drive.google.com\/file\/d\/1_DeXkcHJh5TAXXclP7wWOgrstMO_kLrE\/view?usp=drivesdk",
+    "tags_content": [
+        "pruning"
+    ],
+    "rating": "5"
+}

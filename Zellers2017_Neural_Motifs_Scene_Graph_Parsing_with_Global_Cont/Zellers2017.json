@@ -1,0 +1,19 @@
+{
+    "title": "Neural Motifs: Scene Graph Parsing with Global Context",
+    "authors": [
+        "Rowan Zellers",
+        "Mark Yatskar",
+        "Sam Thomson",
+        "Yejin Choi"
+    ],
+    "year": "2017",
+    "date_added": "2018-07-23 23:16",
+    "in": "arXiv",
+    "tags_reading": [
+        "new"
+    ],
+    "url": "http:\/\/arxiv.org\/pdf\/1711.06640v2",
+    "tags_notes": [
+        "about VG dataset"
+    ]
+}

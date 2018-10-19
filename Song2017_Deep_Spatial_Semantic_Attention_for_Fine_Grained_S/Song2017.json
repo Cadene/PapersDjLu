@@ -1,0 +1,28 @@
+{
+    "title": "Deep Spatial-Semantic Attention for Fine-Grained Sketch-Based Image Retrieval",
+    "authors": [
+        "Song, Jifei",
+        "Yu, Qian",
+        "Song, Yi-Zhe",
+        "Xiang, Tao",
+        "Hospedales, Timothy M."
+    ],
+    "year": "2017",
+    "date_added": "2017-12-02 12:25",
+    "in": "ICCV",
+    "tags_reading": [
+        "read"
+    ],
+    "url": "https:\/\/drive.google.com\/file\/d\/1bp9PwI00-FPL-pp6Ltpd6N9ev7FozqgM\/view?usp=sharing",
+    "tags_content": [
+        "multimodal",
+        "retrieval",
+        "image",
+        "sketch",
+        "selfattention"
+    ],
+    "secret": "cgAIqyAD2q3eRVSg0Krnqlicf9VvqS",
+    "tags_notes": [
+
+    ]
+}

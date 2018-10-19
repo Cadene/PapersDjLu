@@ -1,0 +1,25 @@
+@article { Molchanov2016,
+	abstract = {We propose a new framework for pruning convolutional kernels in neural
+networks to enable efficient inference, focusing on transfer learning where
+large and potentially unwieldy pretrained networks are adapted to specialized
+tasks. We interleave greedy criteria-based pruning with fine-tuning by
+backpropagation - a computationally efficient procedure that maintains good
+generalization in the pruned network. We propose a new criterion based on an
+efficient first-order Taylor expansion to approximate the absolute change in
+training cost induced by pruning a network component. After normalization, the
+proposed criterion scales appropriately across all layers of a deep CNN,
+eliminating the need for per-layer sensitivity analysis. The proposed criterion
+demonstrates superior performance compared to other criteria, such as the norm
+of kernel weights or average feature map activation.},
+	url = {http://arxiv.org/pdf/1611.06440v1},
+	eprint = {1611.06440},
+	arxivid = {1611.06440},
+	archiveprefix = {arXiv},
+	month = {Nov},
+	year = {2016},
+	booktitle = {arXiv},
+	title = {Pruning Convolutional Neural Networks for Resource Efficient Transfer
+  Learning},
+	author = {Pavlo Molchanov and Stephen Tyree and Tero Karras and Timo Aila and Jan Kautz}
+}
+

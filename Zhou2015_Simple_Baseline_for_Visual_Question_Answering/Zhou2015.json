@@ -11,7 +11,12 @@
     "date_added": "2016-09-28 15:06",
     "in": "arXiv",
     "tags_reading": [
-        "new"
+        "read"
     ],
-    "url": "http:\/\/arxiv.org\/pdf\/1512.02167v2"
+    "url": "http:\/\/arxiv.org\/pdf\/1512.02167v2",
+    "tags_content": [
+        "deep",
+        "vqa"
+    ],
+    "rating": "4"
 }

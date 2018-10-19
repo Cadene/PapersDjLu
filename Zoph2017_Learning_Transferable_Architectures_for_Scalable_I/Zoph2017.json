@@ -1,0 +1,25 @@
+{
+    "title": "Learning Transferable Architectures for Scalable Image Recognition",
+    "authors": [
+        "Barret Zoph",
+        "Vijay Vasudevan",
+        "Jonathon Shlens",
+        "Quoc V. Le"
+    ],
+    "year": "2017",
+    "date_added": "2018-06-15 03:34",
+    "in": "arXiv",
+    "tags_reading": [
+        "read"
+    ],
+    "url": "https:\/\/drive.google.com\/file\/d\/1tDpw3_X7EHa5MRZ293vo5lYe-liqMpeL\/view?usp=drivesdk",
+    "tags_content": [
+        "nas",
+        "rl"
+    ],
+    "rating": "",
+    "tags_notes": [
+        "NASNet"
+    ],
+    "secret": "dEnOy5rWCSxvvoBk1XP2mGP0CSefbQ"
+}

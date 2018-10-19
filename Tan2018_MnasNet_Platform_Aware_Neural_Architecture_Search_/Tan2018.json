@@ -1,0 +1,23 @@
+{
+    "title": "MnasNet: Platform-Aware Neural Architecture Search for Mobile",
+    "authors": [
+        "Mingxing Tan",
+        "Bo Chen",
+        "Ruoming Pang",
+        "Vijay Vasudevan",
+        "Quoc V. Le"
+    ],
+    "year": "2018",
+    "date_added": "2018-08-09 20:47",
+    "in": "arXiv",
+    "tags_reading": [
+        "new"
+    ],
+    "url": "https:\/\/drive.google.com\/file\/d\/1VjUtwGNifF5-fnj6R1BQqg-tSw7dTbez\/view?usp=drivesdk",
+    "tags_content": [
+        "nas",
+        "rl",
+        "mobile"
+    ],
+    "rating": "5"
+}
